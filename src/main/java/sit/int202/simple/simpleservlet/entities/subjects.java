@@ -7,8 +7,8 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @EqualsAndHashCode
-public class subject {
-    private String id;
-    private String title;
-    private double credit;
+public class subjects {
+     String id;
+     String title;
+     double credit;
 }
